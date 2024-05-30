@@ -15,8 +15,8 @@ Este proyecto es un sistema de gestión de hotel diseñado para manejar reservas
 
 ## Características
 
-- Gestión de reservas de habitaciones
-- Registro y administración de clientes
+- Gestión de reservas de Habitaciones 
+- Registro y administracion de clientes
 - Control de disponibilidad de habitaciones
 - Generación de facturas y recibos
 - Interfaz gráfica de usuario fácil de usar
