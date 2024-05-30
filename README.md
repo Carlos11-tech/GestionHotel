@@ -1,6 +1,7 @@
 # Sistema de Gestión de Hotel
 
 Este proyecto es un sistema de gestión de hotel diseñado para manejar reservas, clientes, habitaciones y facturación. El sistema proporciona una interfaz intuitiva para el personal del hotel, facilitando la administración de las operaciones diarias.
+Para ello vamos a realizar el respectivo diagrama UML con sus clases identificadas y sus respectivas relaciones.
 
 ## Tabla de Contenidos
 
