@@ -16,7 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from GestionHotelera.GestionPersonas import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('cliente/nuevo/', views.crear_cliente, name='crear_cliente'),
+    path('cliente/<int:pk>/editar/', views.editar_cliente, name='editar_cliente'),
 ]
