@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión de Hotel
 
 Este proyecto es un sistema de gestión de hotel diseñado para manejar reservas, clientes, habitaciones y facturación. El sistema proporciona una interfaz intuitiva para el personal del hotel, facilitando la administración de las operaciones diarias.
@@ -56,3 +57,6 @@ sistema-gestion-hotel/
 ├── package.json
 ├── README.md
 └── server.js
+=======
+# GestionHotel
+>>>>>>> release
