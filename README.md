@@ -7,3 +7,9 @@ Segundo Avance
 
 Tercer avance final
 ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523171/e5fcfa39-b17a-4403-9b8e-ccf9c713d3c9)
+
+Primer avance Codigo 
+![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/11f77bc2-9ac2-4c53-8c09-2d778a4f628f)
+![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/053a64ac-f989-418b-98d3-8a318b73dff0)
+![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/7addac39-a61a-4853-9fa1-c102022bb33d)
+![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/8d58d0b3-1647-4bc6-b27b-4cfa43e7e0b7)
