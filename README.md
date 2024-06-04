@@ -30,13 +30,5 @@ REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
 - [Pycharm] Ide de Python
 - [Django] Creacion del modelo del Sistema
 
-Uso
 
-1. Abre tu navegador web y visita `http://localhost:3000`
-2. Inicia sesión con las credenciales proporcionadas por el administrador
-3. Navega por las diferentes secciones del sistema para gestionar el hotel
-
-Estructura del Proyecto
-
-## Codigo final Sistema Hotelario
 
