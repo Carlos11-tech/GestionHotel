@@ -23,7 +23,8 @@ class Habitacion(models.Model):
     tipo_habitacion = models.CharField(max_length=10, choices=TipoHabitacion.choices)
     estado = models.BooleanField()
     precio = models.FloatField()
-    factura = models.ForeignKey('Factura', on_delete=models.CASCADE, related_name='habitaciones', null=True, blank=True)
+    factura = models.ForeignKey('Factura', on_delete=models.CASCADE, related_name='habitaciones',
+                                null=True, blank=True)
 
 class Factura(models.Model):
     precio_final = models.FloatField()
