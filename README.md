@@ -1,19 +1,16 @@
-<<<<<<< HEAD
-# Sistema de Gestión de Hotel
+
+Sistema de Gestión de Hotel
 
 Este proyecto es un sistema de gestión de hotel diseñado para manejar reservas, clientes, habitaciones y facturación. El sistema proporciona una interfaz intuitiva para el personal del hotel, facilitando la administración de las operaciones diarias.
 Para ello vamos a realizar el respectivo diagrama UML con sus clases identificadas y sus respectivas relaciones.
 
-## Tabla de Contenidos
+DIAGRAMA UML
+![Imagen de WhatsApp 2024-06-03 a las 16 33 17_9629c967](https://github.com/Carlos11-tech/GestionHotel/assets/166561281/04b75f51-4b66-4d30-a30a-51f03a6fd771)
+EXPLICACION DIAGRAMA UML
 
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
+![image](https://github.com/Carlos11-tech/GestionHotel/assets/166561281/1d591c4a-5d8c-46c9-aedc-e40888c65c18)
+
 
 ## Características
 
