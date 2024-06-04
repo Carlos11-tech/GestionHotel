@@ -9,7 +9,7 @@ DIAGRAMA UML
 EXPLICACION DIAGRAMA UML
 
 Partimos de una clase para la reservacion donde se encuentra el poder agregar clientes y emplear una interfza a traves del personal para hacer reservaciones, de igual manera se lleva el control de fecha de ingreso y fecha de salida del cliente
-El segundo paquete se refire a la manera para generar una factura , utilizando varias enumeraciones y mandandolas a la super clase de factura donde se establecen los atributos y metodos que se emplearan para generar dicha factura
+El segundo paquete se refire a la manera para generar una factura , utilizando varias enumeraciones y mandandolas a la super clase de factura donde se establecen los atributos y metodos que se emplearan para generar dicha factura.
 El último paquete nos ayuda a gestionar los empleados y poder a su vez contratar, asignar cargo y un turno
 
 REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
