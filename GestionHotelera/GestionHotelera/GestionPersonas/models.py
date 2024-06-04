@@ -74,4 +74,3 @@ class CheckOut(models.Model):
 
     def actualizar_estado_pago(self):
         pass
-
