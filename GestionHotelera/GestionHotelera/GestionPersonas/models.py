@@ -45,7 +45,6 @@ class Reserva(models.Model):
     tipo_habitacion = models.CharField(max_length=20)
     tiempo_hospedaje = models.CharField(max_length=20)
     cliente = models.ForeignKey(Cliente, on_delete=models.CASCADE)
-    personal = models.ForeignKey(Personal, on_delete=models.CASCADE)
 
 class CheckIn(models.Model):
     # Atributos
