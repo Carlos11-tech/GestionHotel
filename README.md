@@ -36,6 +36,7 @@ Uso
 2. Inicia sesión con las credenciales proporcionadas por el administrador
 3. Navega por las diferentes secciones del sistema para gestionar el hotel
 
-## Estructura del Proyecto
+Estructura del Proyecto
 
+## Codigo final Sistema Hotelario
 
