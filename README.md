@@ -30,5 +30,9 @@ REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
 - [Pycharm] Ide de Python
 - [Django] Creacion del modelo del Sistema
 
-
+1 jfjf
+2 ff
+3 is
+4r 
+45
 
