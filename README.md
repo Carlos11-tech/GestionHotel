@@ -39,5 +39,6 @@ Ultimo avance
 ![e54693f5-175a-4947-9568-5a53e6d9ec7d](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/806da597-8cd7-41a7-ab75-bb196caac36f)
 
 Archivos Html agregados
-![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/dbf7c07f-93b7-4e84-9693-d096427de115)
+![descarga (1)](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/1ce2d7d7-dd88-4b31-bffb-1a6528bbee3b)
+
 
