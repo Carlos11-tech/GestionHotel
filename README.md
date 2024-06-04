@@ -31,3 +31,10 @@ Tercer Avance Codigo
 ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/423c421d-fe91-4a92-a8d4-c8aea9424f14)
 ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523273/0c82d1e6-790d-4ad9-b160-a9d45d2ce66e)
 
+Ultimo avance
+![2589f264-5b71-433a-92b3-9f2f31116ac2](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/3568c2ad-0df7-4c27-a1bd-6f759dd5015b)
+![322b8c52-c338-4bad-8fc9-22e3cab52233](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/a5d6d8e1-097a-4259-9190-73b665d80228)
+![e17fc165-cbee-44c0-81c3-607878750b71](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/826ce3de-aac2-4562-94f1-f7d3a13391f8)
+![ae75fdc3-c218-4ed9-8fe7-88ae46311781](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/1b2ee407-ac19-4376-96f6-b55d329e1af5)
+![e54693f5-175a-4947-9568-5a53e6d9ec7d](https://github.com/Carlos11-tech/GestionHotel/assets/166523123/806da597-8cd7-41a7-ab75-bb196caac36f)
+
