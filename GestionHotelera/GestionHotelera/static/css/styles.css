@@ -1,0 +1,360 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666666;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.enlaces {
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.top-right-btns {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    color: #666666;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+form {
+    text-align: left;
+}
+
+label {
+    display: block;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    color: #666666;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f8f8f8;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .titulo-tipos-habitaciones {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .subtitulo {
+        text-align: center;
+        color: #555;
+    }
+
+    .habitacion {
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+
+    .nombre-habitacion {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .descripcion-habitacion {
+        color: #555;
+        margin-bottom: 10px;
+    }
+
+    .precio-habitacion {
+        font-weight: bold;
+        color: #2ecc71;
+    }
+
+    .btn-regresar {
+        display: block;
+        width: 150px;
+        margin: 20px auto;
+        padding: 10px;
+        text-align: center;
+        background-color: #3498db;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+
+    .btn-regresar:hover {
+        background-color: #2980b9;
+    }
+
+    .footer-text {
+        text-align: center;
+        color: #555;
+        margin-top: 20px;
+    }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titulo-ver-servicios {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.subtitulo {
+    text-align: center;
+    color: #555;
+}
+
+.servicio {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.nombre-servicio {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.descripcion-servicio {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.btn-regresar {
+    display: block;
+    width: 150px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-regresar:hover {
+    background-color: #2980b9;
+}
+
+.footer-text {
+    text-align: center;
+    color: #555;
+    margin-top: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f7f7f7;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.detalle-reserva {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+.detalle-reserva:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.titulo-detalle {
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 10px;
+}
+.detalle {
+    font-size: 16px;
+    color: #777;
+}
+.precio-total {
+    font-size: 24px;
+    color: #333;
+    text-align: right;
+    margin-top: 30px;
+}
+
