@@ -29,3 +29,20 @@ REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
 - [VisualParadigm] Para el diagrma UML
 - [Pycharm] Ide de Python
 - [Django] Creacion del modelo del Sistema
+
+  ## Resultado
+  ![ce98f8fa-cd34-437d-bab2-feefc9573416](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/51da7e32-b625-4211-9438-1935fcc97626)
+  ![dab0d876-f261-4b73-a904-56cb56e8f774](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/6351ff02-b478-40c5-a7c7-74eb9ff2bbfe)
+  ![5b7681bc-2505-4418-9e45-3673d84a9e05](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/33eb568e-cf20-4f37-a992-8cbc37fd36ab)
+  ![f785ba3e-2f5c-407b-b3cc-f1ba0a304dd4](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/53c04d3c-07d6-4e7a-b589-64735d299c02)
+  ![79d0c117-da0c-498e-822c-bc3acfc2a3e8](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/d589cdd6-492c-4e89-8f71-33fef4a40067)
+
+ 
+  
+
+  
+
+
+  
+
+
