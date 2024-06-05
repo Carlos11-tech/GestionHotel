@@ -1,0 +1,59 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservación - Hotel Chevere</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; }
+        input[type="text"], input[type="email"], input[type="date"], input[type="time"], select { width: 100%; padding: 8px; box-sizing: border-box; }
+        .btn { display: inline-block; margin-top: 20px; padding: 10px 20px; background-color: #007BFF; color: #fff; text-align: center; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body class="reservacion">
+    <header>
+        <h1 class="titulo-reservacion">Reservación en el Hotel Chevere</h1>
+        <p class="subtitulo">Complete el siguiente formulario para reservar su habitación y seleccionar los servicios deseados.</p>
+    </header>
+    <div class="container reservacion">
+        <form method="POST">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="cliente">Cliente</label>
+                {{ form.cliente }}
+            </div>
+            <div class="form-group">
+                <label for="tipo_habitacion">Tipo de Habitación: Escoja entre /De lujo/Doble/Sencilla (Escriba)</label>
+                {{ form.tipo_habitacion }}
+            </div>
+            <div class="form-group">
+                <label for="tiempo_hospedaje">Tiempo de Hospedaje (En formato 00:00)</label>
+                {{ form.tiempo_hospedaje }}
+            </div>
+            <div class="form-group">
+                <label for="fecha_ingreso">Fecha de Entrada</label>
+                <input type="date" id="fecha_ingreso" name="fecha_ingreso">
+            </div>
+            <div class="form-group">
+                <label for="hora_ingreso">Hora de Entrada</label>
+                <input type="time" id="hora_ingreso" name="hora_ingreso">
+            </div>
+            <div class="form-group">
+                <label for="fecha_salida">Fecha de Salida</label>
+                <input type="date" id="fecha_salida" name="fecha_salida">
+            </div>
+            <div class="form-group">
+                <label for="hora_salida">Hora de Salida</label>
+                <input type="time" id="hora_salida" name="hora_salida">
+            </div>
+            <input type="submit" value="Reservar" class="btn">
+        </form>
+    </div>
+</body>
+</html>
