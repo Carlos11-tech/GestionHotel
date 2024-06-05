@@ -16,14 +16,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
 from GestionPersonas import views
+from GestionPersonas.views import crear_reserva, reserva_exitosa
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.pagina_inicio, name='pagina_inicio'),
     path('ver_servicios/', views.ver_servicios, name='ver_servicios'),
     path('ver_tipos_habitaciones/', views.ver_tipos_habitaciones, name='ver_tipos_habitaciones'),
-    path('reserva_habitacion/', views.reserva_habitacion, name='reserva_habitacion'),
     path('registrar_cliente/', views.registrar_cliente, name='registrar_cliente'),
+    path('crear_reserva/', crear_reserva, name='crear_reserva'),
+    path('reserva_exitosa/', reserva_exitosa, name='reserva_exitosa'),
 ]

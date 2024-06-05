@@ -19,12 +19,17 @@ class Servicios(models.TextChoices):
     SERVICIO_WIFI = 'SERVICIO_WIFI', 'Servicio de Wifi'
 
 class Habitacion(models.Model):
-    numero = models.IntegerField()
+    numero = models.IntegerField(unique=True)
     tipo_habitacion = models.CharField(max_length=10, choices=TipoHabitacion.choices)
-    estado = models.BooleanField()
+    estado = models.BooleanField(default=False)  # Por defecto, habitación disponible
     precio = models.FloatField()
-    factura = models.ForeignKey('Factura', on_delete=models.CASCADE, related_name='habitaciones',
-                                null=True, blank=True)
+
+    def ocupar(self):
+        self.estado = True
+        self.save()
+
+    def __str__(self):
+        return f"Habitación {self.numero} - {self.tipo_habitacion}"
 
 class Factura(models.Model):
     precio_final = models.FloatField()
