@@ -81,6 +81,9 @@ Siguiendo estos pasos, deberías ser capaz de instalar los requerimientos de tu 
  ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/67f8c97d-9a11-4a87-931a-bf752b370527)
  ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/de3436b6-36dc-4f40-8b3c-70562a99c544)
 
+Usuario y contraseña del admin
+Nexus
+123qwe
 
   
 
