@@ -39,6 +39,8 @@ REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
 
  ## Como ejecutar nuestro programa en base a esta imagen deben ingresar esos comandos
  ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/67f8c97d-9a11-4a87-931a-bf752b370527)
+ ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166523461/de3436b6-36dc-4f40-8b3c-70562a99c544)
+
 
   
 
