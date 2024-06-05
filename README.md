@@ -1,19 +1,59 @@
-
-SISTEMA DE GESTION DE HOTEL
+# SISTEMA DE GESTION DE HOTEL
 
 Bienvenidos compañeros a este proyecto que conciste en un sistema de gestión de hotel diseñado para manejar reservas, clientes, habitaciones y facturación. El sistema proporciona una interfaz intuitiva para el personal del hotel, facilitando la administración de las operaciones diarias.
 Para ello vamos a realizar el respectivo diagrama UML con sus clases identificadas y sus respectivas relaciones
 
-DIAGRAMA UML
+## DIAGRAMA UML
 ![Imagen de WhatsApp 2024-06-03 a las 16 33 17_9629c967](https://github.com/Carlos11-tech/GestionHotel/assets/166561281/04b75f51-4b66-4d30-a30a-51f03a6fd771)
-EXPLICACION DIAGRAMA UML
+
+#### EXPLICACION DIAGRAMA UML
 
 Partimos de una clase para la reservacion donde se encuentra el poder agregar clientes y emplear una interfza a traves del personal para hacer reservaciones, de igual manera se lleva el control de fecha de ingreso y fecha de salida del cliente
 El segundo paquete se refire a la manera para generar una factura , utilizando varias enumeraciones y mandandolas a la super clase de factura donde se establecen los atributos y metodos que se emplearan para generar dicha factura.
 El último paquete nos ayuda a gestionar los empleados y poder a su vez contratar, asignar cargo y un turno
 
-REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
+#### REALIZACION DE TRABAJO CON ESTRUCTURA GIT FLOW
 ![image](https://github.com/Carlos11-tech/GestionHotel/assets/166561281/1d591c4a-5d8c-46c9-aedc-e40888c65c18)
+
+# **PASOS DE INTALACION**
+##### 1. Activa el Entorno Virtual (si estás usando uno)
+Si estás trabajando en un entorno virtual, actívalo utilizando el comando adecuado para tu sistema operativo:
+
+###### En Windows:   
+- venv\Scripts\activate
+
+###### En macOS/Linux: 
+- source venv/bin/activate
+
+##### 2. Navega al Directorio del Proyecto
+Abre una terminal o línea de comandos y navega hasta el directorio raíz de tu proyecto. Por ejemplo:
+
+`cd /ruta/a/tu/proyecto`
+
+##### 3. Instala los Requerimientos
+Utiliza el comando pip para instalar los requerimientos desde el archivo requirements.txt:
+
+`pip install -r requirements.txt`
+
+Este comando instalará todas las dependencias listadas en el archivo requirements.txt.
+
+##### 4. Verifica la Instalación (Opcional)
+Una vez completada la instalación, puedes verificar que todas las dependencias se instalaron correctamente ejecutando el comando pip list:
+
+`pip list`
+
+Esto mostrará todas las bibliotecas instaladas en tu entorno virtual, lo que te permitirá confirmar que todas las dependencias se han instalado correctamente.
+
+##### 5. Desactiva el Entorno Virtual (Opcional)
+Si has terminado de trabajar en tu proyecto, puedes desactivar el entorno virtual:
+
+`deactivate`
+
+Este comando es necesario solo si has activado un entorno virtual al principio.
+
+Siguiendo estos pasos, deberías ser capaz de instalar los requerimientos de tu proyecto Python sin problemas. Este enfoque es útil para asegurarte de que todas las dependencias estén instaladas correctamente y que tu proyecto esté listo para ejecutarse, 
+
+------------
 
 
 ## Características
